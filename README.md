@@ -1,9 +1,7 @@
 ### Hola, Soy Leopoldo  👋
 
+<!--![Banner_DataScientist-red](https://github.com/LeopoldoGitHub/LeopoldoGithub/assets/122738840/b325c489-51a5-4a0b-a7f5-3ca17ff4ed09)
 
-![Tarjeta presentacion](https://github.com/LeopoldoGitHub/LeopoldoGithub/assets/122738840/5afc5b76-5a21-4b78-b415-7665b7679f6e)
-
-<!--
 **LeopoldoGitHub/LeopoldoGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
