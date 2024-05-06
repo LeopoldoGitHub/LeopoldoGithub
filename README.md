@@ -1,12 +1,12 @@
 ### Hola, Soy Leopoldo  👋
 
-<!--![Banner_DataScientist-red](https://github.com/LeopoldoGitHub/LeopoldoGithub/assets/122738840/b325c489-51a5-4a0b-a7f5-3ca17ff4ed09)
+![Banner_DataScientist pru](https://github.com/LeopoldoGitHub/LeopoldoGithub/assets/122738840/405f77c7-7993-4669-b985-2322e4dc30f1)
 
 **LeopoldoGitHub/LeopoldoGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
