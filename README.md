@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Leopoldo</h1>
 
-![Banner_DataScientist pru](https://github.com/LeopoldoGitHub/LeopoldoGithub/assets/122738840/405f77c7-7993-4669-b985-2322e4dc30f1)
+
+![Tarjetapresentacion](https://github.com/LeopoldoGitHub/LeopoldoGithub/assets/122738840/fe851453-cf3b-4bdc-b4af-9e537a48ac7a)
 
 
 - 🔭 I’m currently working on [Store-Sale-Analysis](https://github.com/LeopoldoGitHub/Store-Sale-Analysis)
