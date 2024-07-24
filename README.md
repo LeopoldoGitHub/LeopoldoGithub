@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, Qlik, LookerStudio,SQL**
 
-- 👯 I’m looking to collaborate on [BootCampXperience-MachineLearningProject](https://github.com/LeopoldoGitHub/BootCampXperienceG10)
+- 👯 I’m looking to collaborate on [BootCampXperience-Dashboard Interactivo](https://github.com/LeopoldoGitHub/Dashboard_Ventas_BCX)
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeopoldoGitHub](https://github.com/LeopoldoGitHub)
 
