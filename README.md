@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [Store-Sale-Analysis](https://github.com/LeopoldoGitHub/Store-Sale-Analysis)
 
-- 🌱 I’m currently learning **Python, Qlik, LookerStudio,SQL**
-
-- 👯 I’m looking to collaborate on [BootCampXperience-Dashboard Interactivo](https://github.com/LeopoldoGitHub/Dashboard_Ventas_BCX)
+- 🌱 I’m currently learning **Python,IA, LookerStudio,SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeopoldoGitHub](https://github.com/LeopoldoGitHub)
 
